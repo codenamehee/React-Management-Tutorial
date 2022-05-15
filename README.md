@@ -1,3 +1,6 @@
+## Management System
+React 강의 목적으로 만들어진 고객 관리 시스템을 따라하는 것
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
